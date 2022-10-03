@@ -1,0 +1,60 @@
+{
+    "assets": [
+    {
+    "type": "TbServiceQueue",
+    "id": "212a71d0-3bb2-11ec-bc2d-4fc935d50606",
+    "search_text": "main_tb-rule-engine1",
+    "name": "Main_tb-rule-engine1",
+    "label": null
+    },
+    {
+    "type": "TbServiceQueue",
+    "id": "acbc1a80-3bb9-11ec-bc2d-4fc935d50606",
+    "search_text": "main_tb-rule-engine1",
+    "name": "Main_tb-rule-engine1",
+    "label": null
+    },
+    {
+    "type": "TbServiceQueue",
+    "id": "5833f7f0-ad81-11ec-ad0a-715256ba7f65",
+    "search_text": "main_tb-rule-engine2",
+    "name": "Main_tb-rule-engine2",
+    "label": null
+    },
+    {
+    "type": "TbServiceQueue",
+    "id": "5892b9c0-ad81-11ec-ad0a-715256ba7f65",
+    "search_text": "main_tb-rule-engine2",
+    "name": "Main_tb-rule-engine2",
+    "label": null
+    },
+    {
+    "type": "PLANT",
+    "id": "2a9933b0-50ec-11ec-a579-89066642e73e",
+    "search_text": "p0003",
+    "name": "P0003",
+    "label": "Thành Xuân Phú"
+    },
+    {
+    "type": "PLANT",
+    "id": "02046590-3bfd-11ec-a579-89066642e73e",
+    "search_text": "p0002",
+    "name": "P0002",
+    "label": "Bình Nguyên"
+    },
+    {
+    "type": "TbServiceQueue",
+    "id": "12d36a50-f95e-11ec-b8eb-6912708fc7fa",
+    "search_text": "main_linux87485",
+    "name": "Main_linux87485",
+    "label": null
+    },
+    {
+    "type": "PLANT",
+    "id": "5b23f5b0-50ec-11ec-a579-89066642e73e",
+    "search_text": "p0004",
+    "name": "P0004",
+    "label": "Thái Bình Chu Lai "
+    }
+    ]
+    }
